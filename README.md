@@ -1,1 +1,1 @@
-# vib.github.io
+# Your site needs an entry file, which is usually index.html. GitHub Pages will look for an index.html, index.md, or README.md file as the entry point
